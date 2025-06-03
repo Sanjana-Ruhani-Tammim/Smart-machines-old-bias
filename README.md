@@ -31,3 +31,8 @@
 
 ## Generated output by Meta AI
 ![output](expected_salary_generated_output/Meta_AI.png)
+
+
+## Generated output by Mistral AI
+![output](expected_salary_generated_output/Mistral_AI.png)
+
