@@ -14,3 +14,7 @@
 
 ## Generated output by Claude AI
 ![output](expected_salary_generated_output/Claude_AI.png)
+
+
+## Generated output by DeepSeek V3
+![output](expected_salary_generated_output/deepseekV3.png)
