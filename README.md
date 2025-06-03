@@ -27,3 +27,7 @@
 
 ## Generated output by Grok 3 w/o web search
 ![output](expected_salary_generated_output/GROK_3_wo_search.png)
+
+
+## Generated output by Meta AI
+![output](expected_salary_generated_output/Meta_AI.png)
