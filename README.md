@@ -69,3 +69,10 @@
 ## Generated output by Meta AI
 ![output](follow_up_generated_output/metaai_follow_up.png)
 
+## Generated output by Mistral AI
+![output](follow_up_generated_output/mistral_ai_follow_up_1.png)
+![output](follow_up_generated_output/mistral_ai_follow_up_2.png)
+
+## Generated output by Perplexity AI
+![output](follow_up_generated_output/perplexity_ai_follow_up.png)
+
