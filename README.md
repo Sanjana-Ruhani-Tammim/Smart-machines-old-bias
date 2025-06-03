@@ -36,3 +36,6 @@
 ## Generated output by Mistral AI
 ![output](expected_salary_generated_output/Mistral_AI.png)
 
+
+## Generated output by Perplexity AI
+![output](expected_salary_generated_output/perplexity_ai.png)
