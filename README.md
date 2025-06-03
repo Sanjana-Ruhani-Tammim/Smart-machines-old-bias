@@ -10,3 +10,7 @@
 
 ## Generated output by ChatGPT 4.1 mini
 ![output](expected_salary_generated_output/chatgpt4.1mini.png)
+
+
+## Generated output by Claude AI
+![output](expected_salary_generated_output/Claude_AI.png)
