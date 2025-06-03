@@ -65,3 +65,7 @@
 ## Generated output by Grok 3 w/o web search
 ![output](follow_up_generated_output/grok_3_wo_web_1.png)
 ![output](follow_up_generated_output/grok_3_wo_web_2.png)
+
+## Generated output by Meta AI
+![output](follow_up_generated_output/metaai_follow_up.png)
+
