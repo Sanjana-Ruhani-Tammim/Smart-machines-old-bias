@@ -42,4 +42,4 @@
 
 ## We asked them follow-up questions with the following prompt:
 
-*** Do you notice any patterns in your own answers? If so, what might be the cause of this pattern? Is it fair? ***
+***Do you notice any patterns in your own answers? If so, what might be the cause of this pattern? Is it fair?***
