@@ -45,4 +45,4 @@
 ***Do you notice any patterns in your own answers? If so, what might be the cause of this pattern? Is it fair?***
 
 ## Generated output by ChatGPT 4o
-![output](expected_salary_generated_output/chatgpt4o_default_follow_up_1.png)
+![output](follow_up_generated_output/chatgpt4o_default_follow_up_1.png)
