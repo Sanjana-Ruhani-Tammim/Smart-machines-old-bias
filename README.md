@@ -53,3 +53,8 @@
 
 ## Generated output by Claude AI
 ![output](follow_up_generated_output/claude_ai_follow_up.png)
+
+## Generated output by DeepSeek V3
+![output](follow_up_generated_output/deepseek_v3_follow_up_1.png)
+![output](follow_up_generated_output/deepseek_v3_follow_up_2.png)
+
