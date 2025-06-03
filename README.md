@@ -5,4 +5,4 @@
 
 
 ## Generated output by ChatGPT 4o
-![output](expected_salary_generated_output/chatgpt_4o .png)
+![output](expected_salary_generated_output/chatgpt_4o.png)
