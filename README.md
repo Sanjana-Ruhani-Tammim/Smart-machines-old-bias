@@ -23,3 +23,7 @@
 ## Generated output by Grok 3
 ![output](expected_salary_generated_output/GROK_3_1.png)
 ![output](expected_salary_generated_output/GROK_3_2.png)
+
+
+## Generated output by Grok 3 w/o web search
+![output](expected_salary_generated_output/GROK_3_wo_search.png)
